@@ -3,9 +3,7 @@ package com.hhx.self.selfEditor;
 import org.springframework.beans.PropertyEditorRegistrar;
 import org.springframework.beans.PropertyEditorRegistry;
 import org.springframework.beans.factory.config.CustomEditorConfigurer;
-import org.springframework.core.io.Resource;
 
-import java.util.Arrays;
 
 /**
  * @author kai·yang
